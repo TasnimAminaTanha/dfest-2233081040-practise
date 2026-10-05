@@ -20,6 +20,16 @@
   width: 100%;
   max-width: 1100px;
   margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.header-logo {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+  flex-shrink: 0;
 }
 
 .header-title {
