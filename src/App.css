@@ -42,6 +42,11 @@
   font-size: 0.95rem;
 }
 
+/* ── Space between page sections ── */
+.section-gap {
+  height: 2rem;
+}
+
 /* ── Responsive ── */
 @media (max-width: 640px) {
   .header-title {
